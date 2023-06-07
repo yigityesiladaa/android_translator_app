@@ -62,7 +62,7 @@
         android:layout_height="100dp"
         android:layout_marginHorizontal="20dp"
         android:layout_marginTop="10dp"
-        android:hint="@string/source_text_hint"
+        android:hint="@string/enter_your_text_to_translate_text"
         android:padding="5sp"
         android:textColorHint="@color/white"
         app:hintTextColor="@color/white">
@@ -124,7 +124,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="@string/translated_text"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="@color/yellow"
