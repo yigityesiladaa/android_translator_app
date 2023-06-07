@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Translate App</string>
+    <string name="translate_title">Language Translator</string>
+    <string name="source_text_hint">Source Text</string>
+    <string name="or_text">OR</string>
+    <string name="say_something_text">Say Something</string>
+    <string name="translate_text">Translate</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="downloading_modal_text">Downloading Modal...</string>
+    <string name="translating_text">Translating..</string>
+    <string name="enter_your_text_to_translate_text">Please enter your text to translate</string>
+    <string name="select_source_language_text">Please select source language</string>
+    <string name="select_language_to_translation_text">Please select the language to make translation</string>
+    <string name="speak_text">Speak to convert into text</string>
+</resources>
