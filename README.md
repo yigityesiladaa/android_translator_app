@@ -18,14 +18,14 @@ Firebase ML Natural Language Translate Model  | 20.0.9
 Firebase ML Natural Language ID Model  | 20.0.8
 </p>
 
-## App Gifs
+### App Gifs
 
 Text Translate  | Speak Translate
 ------------- | -------------
 <a><img src="https://github.com/yigityesiladaa/android_translator_app/blob/main/app_gifs/text_translate.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="220" height="400" /></a> | <a><img src="https://github.com/yigityesiladaa/android_translator_app/blob/main/app_gifs/speak_translate.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="220" height="400" /></a>
 
 
-## App Display Images
+### App Display Images
 
 Translated Text  | From List | To List
 ------------- | ------------- | -------------
